@@ -12,9 +12,6 @@ A collection of beginner to intermediate **Java console-based programs** created
 - Demonstrates method-based state management and input validation
 
 
-### ⚪ Circle Calculations
-- Calculates circumference, area, and volume of a circle
-- Uses mathematical functions and formatted output
 
 ---
 
